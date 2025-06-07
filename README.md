@@ -8,4 +8,7 @@ So this is an  initial template using gd script without any plugins specifically
 
 This will be used for a game eventually once all the fundamentals and functionalities are precise and error free which is the reason for my work in progress testing executable to check for any non functionalities or errors in input fields etc. The flow will take you all the way to a basic game scene where I'll have an option for 2D or 3D eventually but it'll show the assets on the side for an inventory during the game which are currently blank obviously and graphics have not been considered at all nor has any theme basis been considered yet just some simple graphical changes have been made temporarily to test their rendering structure and usability. I'm looking for feedback on this for mainly ease of use, errors, further implementations, et cetera.
 
+
+also on itch.io: https://indiepop-games.itch.io/
+
 Files to source unavailable due to use as development stage. Only a testing executable is released for feedback, testing, comments, etc. 
